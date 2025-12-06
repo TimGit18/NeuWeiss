@@ -1,0 +1,14 @@
+[Event "Starting Out: The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NeuWeiss"]
+[Black "Französische Verteidigung"]
+[Result "*"]
+[ECO "C19"]
+[Annotator "Byron Jacobs"]
+[PlyCount "12"]
+[SourceVersionDate "2025.12.06"]
+
+1. e4 e6 2. d4 d5 {Die Französische Verteidigung ist eine attraktive Verteidigung für Spieler, der gerne mit einer soliden Bauernstruktur spielen, dabei aber noch dynamische Gegenspielmöglichkeiten in der Stellung behalten möchten. Charakteristisch für die Eröffnung sind die gegensätzlichen Bauernketten auf e6-d5 versus d4-e5.} 3. Nc3 Bb4 {[%csl Ye4] Die Winawer-Verteidigung ist ein Gegenangriff, der besonders vom jungen Mikhail Botvinnik praktiziert wurde. Schwarz bekämpft den Gegner, indem er den weißen Springer fesselt. Der Preis für dieses aktive Spiel ist die Aufgabe des guten schwarzfeldrigen Läufers für eine bessere Bauernstruktur.} 4. e5 {Bereits dieser Vorstoß ist schon eine große Entscheidung von Weiß. Einerseits gewinnt er Raum und nimmt dem schwarzen Springer auf f6 das beste Entwicklungsfeld, andererseits überdehnt er vielleicht das weiße Zentrum und macht es anfällig für Flankenangriffe.} c5 $1 {Der Angriff mit c7-c5 ist ein wesentliches strategisches Thema in allen Systemen der Französischen Verteidigung. Schwarz beginnt sofort mit dem Kampf um die Kontrolle des Zentrums, indem er die Basis der weißen Bauernstruktur auf d4 unterminiert. Dies ist sogar noch wirkungsvoller als in den Varianten des Tarrasch-Systems, da Weiß sein Zentrum nicht mit c2-c3 stützen kann.} 5. a3 $1 {Das ist ein hervorragender Moment, um den schwarzen Läufer zu befragen und seine Intentionen zu klären.} Bxc3+ ({Die Alternative zum Schlagen ist das Armenische System nach} 5... Ba5) 6. bxc3 {Die Kompensation für den Doppelbauern ist zumindest die solide Kontrolle über das Feld d4.} Ne7 {Schwarz muss sich jetzt mit der Mobilisierung des Königsflügels beeilen, bevor Weiß den entscheidenden Angriff auf den Königsflügel beginnt.} ({Eine Alternative zum Springerzug ist das Portisch-Hook-System, das mit dem Zug} 6... Qa5 {beginnt. Das System ist nicht so beliebt wie Sg8-e7 oder Dd8-c7, aber gewinnt an Popularität, da es den weißen Damenflügel lahmlegt.} 7. Bd2 {Weiß muss den angegriffenen c-Bauern verteidigen.} Qa4 {Das ist der Hauptzug. Wenn Schwarz jetzt noch c5-c4 durchsetzen kann,, dann hat er den weißen Damenflügel lahmgelegt.} 8. Qg4 $1 {Das ist die Moderne Behandlung des Portisch-Hook-Systems und die aggressivste Fortsetzung, die Schwarz zu einer Schwächung des schwarzen Königsflügels zwingt.}) *
+
