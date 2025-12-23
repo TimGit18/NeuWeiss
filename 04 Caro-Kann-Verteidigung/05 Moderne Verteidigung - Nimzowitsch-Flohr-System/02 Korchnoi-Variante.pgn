@@ -1,0 +1,64 @@
+[Event "1.e4 vs The Caro-Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-System"]
+[Black "Korchnoi-Variante"]
+[Result "*"]
+[ECO "B17"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "51"]
+[EventDate "2012.12.31"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 {Dieser Zug von Nimzowitsch führt
+zu zwei unterschiedlichen Varianten} 5. Nxf6+ {Nun muss sich Schwarz
+entscheiden, mit welchem Bauern er zurücknimmt} exf6 {[%csl Yc2,Yc3,Yd3,Ye2]
+[%cal Gc2c3,Gd1c2,Gf1d3,Gg1e2] Tartakower war der erste berühmte Spieler, der
+diese Variante regelmäßig anwandte. Sie ist sehr solide und besser als der
+Bronstein-Larsen-Angriff, aber heutzutage hält man nicht mehr viel davon, da
+sie Schwarz zuwenig Gewinnmöglichkeiten gibt. Die Bauernstruktur wird von
+entgegengesetzten Mehrheiten geprägt, allerdings kann nur Weiß im Endspiel
+einen Freibauern bilden. Dafür kann sich Schwarz frei und leicht entwickeln,
+ohne eingeengt zu stehen. Weiß muss daher sehr geduldig spielen und einen
+Vorteil erarbeiten, der im Endspiel konvertiert wird.} 6. c3 $1 {Das ist ein
+sehr flexibler Ansatz. Der weiße Springer soll nicht nach f3, weil der dort
+keine guten Felder hat. Weiß hat aber zwei Hauptideen: Er will alle Figuren
+abtauschen und ein Endspiel mit einer besseren Bauernstruktur spielen. Er kann
+auch versuchen, den schwarzen König anzugreifen. Wenn Schwarz dann Angst
+bekommt, so könnte er die Figuren tauschen. Sein bevorzugtes
+Entwicklungsschema ist c2-c3, Lf1-d3, Sg1-e2 und Dd1-c2. Je nachdem wie
+Schwarz antwortet, spielt er dann die kurze oder die lange Rochade - letztere
+indsbesondere, falls Schwarz den Königsflügel mit g7-g6 schwächt.} Bd6 {
+Die schwarze Idee besteht in einer einfachen Entwicklung und im Angriff auf
+das weiße Zentrum mit c6-c5} 7. Bd3 O-O 8. Ne2 Re8 {Das ist der beliebteste
+Zug.} 9. Qc2 $5 {[%csl Yf5,Yg3,Yh6][%cal Gh7h6,Ge2g3,Gg3f5] An der Rochade ist
+nichts verkehrt, aber der Damenzug ist ehrgeiziger. Weiß möchte eine kleine
+Schwäche auf dem Königsflügel provozieren. Falls Schwarz h7-h6 spielt, was
+eine völlig natürliche Fortsetzung darstellt, so kann Weiß getrost kurz
+rochieren und seinen Springer über g3 nach f5 entwickeln. Denn dieser wird in
+Zukunft dann nicht mehr so einfach zu vertreiben sein. Falls Schwarz
+andererseits g7-g6 spielt, hat Weiß ein wichtiges Angriffsziel mit h2-h4-h5.}
+g6 {Das ist die kritische Fortsetzung. Wenn Weiß schon kurz rochiert hätte,
+wäre der Zug auch nicht so kritisch.} 10. h4 {Dieser verpflichtende Zug ist
+durch die Erfordernisse der Stellung völlig gerechtfertigt. Schwarz hat hier
+zwei Hauptmöglichkeiten.} {Die Korchnoi-Variante beginnt mit} Nd7 11. h5 Nf8
+12. Bh6 Be6 {Schwarz steht hier schon unter ziemlichen Druck.} ({Im
+Wesentlichen ist} 12... Qc7 $6 {ein Zeitverlust und} 13. O-O-O Be6 14. c4 {
+ergibt eine ausgezeichnete Stellung für Weiß.}) 13. O-O-O b5 {Schwarz
+verhindert c3-c4.} 14. hxg6 fxg6 15. Bxf8 Bxf8 16. Nf4 $1 {Das ist die
+Verbesserung von Ld3xg6.} Bf7 {Der Textzug ist am fordernsten.} (16... Qc7 17.
+Nxe6 Rxe6 18. Kb1 {ist ausgezeichnet für Weiß. Es ist wohlbekannt, dass
+ungleichfarbige Läufer die angreifende Seite bevorzugen. Und Weiß hat gute
+Chancen, um seinen Vorteil auszubeuten.}) 17. Rxh7 $3 Qd6 $1 {Wenn man den
+Turm direkt nimmt, dann verliert Schwarz. Aber der Textzug ist kritisch.} (
+17... Kxh7 18. Bxg6+ Kg8 19. Bxf7+ Kxf7 20. Qg6+ Ke7 21. d5 $1) 18. g3 $1 (18.
+Rh4 f5 {gibt Schwarz Kompensation für den Bauern, denn Weiß verliert den
+Zugriff auf die Stellung und die Koordination seiner Figuren ist schlecht.})
+18... Kxh7 (18... f5 {ist hier auch spielbar, aber Weiß erhält die besseren
+Aussichten nach} 19. Rdh1 Bg7 20. f3 {[%csl Yh2][%cal Gc2h2,Rh2h7,Rh7h8] ,
+wonach Dh2 droht.}) 19. Bxg6+ Kg8 20. Bxf7+ Kxf7 21. Qg6+ Ke7 22. d5 $1 {
+Dieser Zug ist wieder entscheidend. Weiß dominiert vollständig das Brett.} c5
+23. Ne6 Kd7 24. Qf5 {Es gibt keinen Weg für Schwarz, das Extra-Material zu
+behalten. Wahrscheinlich ist am besten für ihn} Bh6+ 25. Kb1 Kc8 26. Rh1 {
+Schwarz wird den Läufer aufgeben müssen und noch einige Zeit leiden.} *
+

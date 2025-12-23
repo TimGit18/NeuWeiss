@@ -1,0 +1,53 @@
+[Event "1.e4 vs The Caro-Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-System"]
+[Black "Bronstein-Larsen-Struktur"]
+[Result "*"]
+[ECO "B17"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "31"]
+[EventDate "2012.12.31"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 {Dieser Zug von Nimzowitsch führt
+zu zwei unterschiedlichen Varianten} 5. Nxf6+ {Nun muss sich Schwarz
+entscheiden, mit welchem Bauern er zurücknimmt. Die typische
+Bronstein-Larsen-Struktur entsteht nach} gxf6 {Eigentlich ist dies der
+beliebtere Zug aufgrund seiner aggressiveren Natur. Schwarz öffnet die
+g-Linie und bietet Weiß mehr Möglichkeiten für Fehler an.} 6. Nf3 {
+Beliebter ist es, mit dem c-Bauern das weiße Zentrum zu stützen, aber die
+Entwicklung mit dem Springer ist auch vielversprechend. Und hier ist es nicht
+so schlimm, dass der Springer keine Felder (auf e5 oder g5) hat, denn er will
+eher nach h4.} Bg4 {Das ist der Standardzug von Schwarz. Er nutzt die weiße
+Entwicklung aus.} ({Fast genauso beliebt ist der Zug} 6... Bf5 {, aber er
+verursacht keinen Ärger für Weiß, denn er kann sich natürlich entwickeln.}
+7. Bd3 {Würde Schwarz den Läufer schlagen, dann könnte Weiß lang rochieren.
+} Bg6 ({Scheinbar opfert} 7... Nd7 {den Läufer, aber nach dem Schach auf a5
+holt sich Schwarz diesen wieder zurück. Weiß spielt einfach} 8. O-O Bg6 9.
+Bf4 {ähnlich wie in der Hauptvariante.}) 8. Bf4 e6 9. O-O Bg7 10. Qe2 O-O 11.
+Rad1 Re8 12. Bg3 Nd7 13. Rfe1 {Weiß hat ein sehr angenehmes Spiel.}) 7. Be2 {
+[%csl Yh4][%cal Gf3h4] Weiß plant im folgenden Sf3-h4, um die weißfeldrigen
+Läufer abzutauschen. Auf h4 steht der Springer ideal, zumindest als
+Verteidiger. Er blockiert den schwarzen h-Bauern und verteidigt ein mögliches
+Angriffsziel auf g2.} e6 ({Eine andere beliebte Zugreihenfolge ist} 7... Qc7 {
+Eigentlich gibt es keinen Grund, den Zug e7-e6 hinauszuzögern, doch es
+ändert sich nicht viel. Weiß fährt mit seinem Plan fort, die beiden
+Zugfolgen können transponieren.} 8. O-O Nd7 9. Nh4 Bxe2 10. Qxe2 e6 11. c4
+O-O-O 12. g3 Rg8 13. Qh5 $1 Nb6 14. b3 h6 (14... Rxd4 15. Bb2 Rdg4 16. Bxf6 {
+ist eine subtile Variante.}) 15. Be3 $14 {Weiß kann entweder auf dem
+Damenflügel vorrücken und seine Figurenstellung verbessern.}) 8. O-O Nd7 ({
+(a)} 8... Qc7 9. Nh4 Bxe2 10. Qxe2 Nd7 {transponiert in die obige Variante mit
+Dc7.}) ({(b)} 8... Bd6 {hat die Idee aktiver gegen den Springer auf h4 zu
+spielen. Aber Weiß kann zu einem einfachen und effektiven Plan wechseln.} 9.
+c4 Qc7 10. c5 Be7 11. b4 Rg8 12. Be3 Nd7 13. Kh1 Nf8 14. b5 {Weiß hat eine
+ausgezeichnete Stellung.}) 9. c4 Qc7 {Nun ist die Zeit für die weiße Idee
+gekommen.} 10. Nh4 h5 $5 {Das ist eine Idee von Nigel Short. Der Zug h2-h3
+wird provoziert und überlässt Weiß eine weniger solide Stellung als nach
+g2-g3.} (10... Bxe2 11. Qxe2 {transponiert in die Variante mit Dc7.}) 11. c5 $5
+{verhindert Lf8-d6.} Bxe2 ({(a) Nach} 11... b6 {folgt} 12. f3) ({(b)} 11...
+O-O-O 12. b4 {und Weiß hat einen viel schnelleren Angriff auf dem
+Damenflügel als das schwarze Spiel auf dem Königsflügel.}) 12. Qxe2 b6 13.
+Re1 bxc5 14. Ng6 Rg8 15. Nxf8 {Weiß wird auf c5 schlagen mit einer angenehmen
+Stellung.} Nxf8 16. dxc5 *
+

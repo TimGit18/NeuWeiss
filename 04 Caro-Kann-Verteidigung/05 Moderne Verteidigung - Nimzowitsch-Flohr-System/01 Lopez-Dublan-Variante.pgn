@@ -1,0 +1,70 @@
+[Event "1.e4 vs The Caro-Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-System"]
+[Black "Lopez-Dublan-Variante"]
+[Result "*"]
+[ECO "B17"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "29"]
+[EventDate "2012.12.31"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 {Dieser Zug von Nimzowitsch führt
+zu zwei unterschiedlichen Varianten} 5. Nxf6+ {Nun muss sich Schwarz
+entscheiden, mit welchem Bauern er zurücknimmt} exf6 {[%csl Yc2,Yc3,Yd3,Ye2]
+[%cal Gc2c3,Gd1c2,Gf1d3,Gg1e2] Tartakower war der erste berühmte Spieler, der
+diese Variante regelmäßig anwandte. Sie ist sehr solide und besser als der
+Bronstein-Larsen-Angriff, aber heutzutage hält man nicht mehr viel davon, da
+sie Schwarz zuwenig Gewinnmöglichkeiten gibt. Die Bauernstruktur wird von
+entgegengesetzten Mehrheiten geprägt, allerdings kann nur Weiß im Endspiel
+einen Freibauern bilden. Dafür kann sich Schwarz frei und leicht entwickeln,
+ohne eingeengt zu stehen. Weiß muss daher sehr geduldig spielen und einen
+Vorteil erarbeiten, der im Endspiel konvertiert wird.} 6. c3 $1 {Das ist ein
+sehr flexibler Ansatz. Der weiße Springer soll nicht nach f3, weil der dort
+keine guten Felder hat. Weiß hat aber zwei Hauptideen: Er will alle Figuren
+abtauschen und ein Endspiel mit einer besseren Bauernstruktur spielen. Er kann
+auch versuchen, den schwarzen König anzugreifen. Wenn Schwarz dann Angst
+bekommt, so könnte er die Figuren tauschen. Sein bevorzugtes
+Entwicklungsschema ist c2-c3, Lf1-d3, Sg1-e2 und Dd1-c2. Je nachdem wie
+Schwarz antwortet, spielt er dann die kurze oder die lange Rochade - letztere
+indsbesondere, falls Schwarz den Königsflügel mit g7-g6 schwächt.} Bd6 {
+Die schwarze Idee besteht in einer einfachen Entwicklung und im Angriff auf
+das weiße Zentrum mit c6-c5} 7. Bd3 O-O 8. Ne2 Re8 {Das ist der beliebteste
+Zug.} 9. Qc2 $5 {[%csl Yf5,Yg3,Yh6][%cal Gh7h6,Ge2g3,Gg3f5] An der Rochade ist
+nichts verkehrt, aber der Damenzug ist ehrgeiziger. Weiß möchte eine kleine
+Schwäche auf dem Königsflügel provozieren. Falls Schwarz h7-h6 spielt, was
+eine völlig natürliche Fortsetzung darstellt, so kann Weiß getrost kurz
+rochieren und seinen Springer über g3 nach f5 entwickeln. Denn dieser wird in
+Zukunft dann nicht mehr so einfach zu vertreiben sein. Falls Schwarz
+andererseits g7-g6 spielt, hat Weiß ein wichtiges Angriffsziel mit h2-h4-h5.}
+g6 {Das ist die kritische Fortsetzung. Wenn Weiß schon kurz rochiert hätte,
+wäre der Zug auch nicht so kritisch.} 10. h4 {Dieser verpflichtende Zug ist
+durch die Erfordernisse der Stellung völlig gerechtfertigt. Schwarz hat hier
+zwei Hauptmöglichkeiten.} Be6 $5 {Diese Variante stammt von den Großmeistern
+Salgado Lopez und Narciso Dublan und bildet die Hauptvariante.} 11. h5 f5 12.
+Be3 $1 {Das ist eine Empfehlung von John Shaw. Der Zug kommt nicht so häufig
+vor wie der Bauerntausch auf g6. Aber er ist flexibler, denn der Tausch würde
+nur die Bauernstellung von Schwarz konsolidieren, und er würde seine
+Verteidigungs-Ressourcen organisieren.} ({Üblich ist oft} 12. hxg6 fxg6) 12...
+Qf6 {Dieser Zug verhindert sofortige Angriffsideen, aber Weiß behält
+trotzdem eine starke Initiative.} ({(a)} 12... Nd7 {erwidert man mit} 13. hxg6
+fxg6 ({Nach} 13... hxg6 14. O-O-O {wird die offene h-Linie zu einem Problem
+für Schwarz.}) 14. g4 {mit vielversprechendem Spiel für Weiß, zum Beispiel:}
+f4 {Das ist die kritische Antwort. Aber Weiß kann hier sofort Material
+gewinnen.} 15. Bxg6 fxe3 16. Bxe8 exf2+ 17. Kf1 {Wegen des Angriffs auf h7
+sollte Schwarz den Läufer nicht nehmen.} Nf8 (17... Qxe8 $6 18. Qxh7+ Kf8 19.
+Qh6+ Kf7 20. Nf4) 18. Bh5 $14 {Weiß hat eine Mehrqualität, und sein eigener
+König ist nicht allzu gefährdet.}) ({(b) Die weiße lange Rochade verhindert
+} 12... Qa5 {, aber der weiße Angriff mit dem König in der Mitte ist
+trotzdem sehr stark nach} 13. hxg6 fxg6 (13... hxg6 14. Kf1 {ist
+vielversprechend für Weiß.}) 14. g4 $1 Bd5 15. Rh3 $1 fxg4 16. Rxh7 $1 Rxe3
+17. fxe3 Kxh7 18. Bxg6+ {mit starken weißem Angriff.}) 13. O-O-O f4 $5 {
+Wiederum ist dieser Zug die kritische Fortsetzung.} ({(a) Eine gute Initiative
+erhält Weiß nach} 13... Bxa2 14. b3 f4 15. Nxf4 Bxf4 16. Bxf4 Qxf4+ 17. Kb2
+Bxb3 18. Qxb3) ({(b) Spielbar ist} 13... Nd7 {, doch nach} 14. Nf4 {tauscht
+Weiß einfach einen Springer gegen einen Läufer.}) 14. Bd2 Nd7 (14... Bxa2 $2
+15. c4 {ist furchtbar für Schwarz.}) 15. Kb1 {Mit der Aussicht von g2-g3 und
+c3-c4 als nächstes kann Weiß eine Initiative auf beiden Seiten des Bretts
+entwickeln.} *
+

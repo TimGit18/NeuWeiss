@@ -1,0 +1,29 @@
+[Event "1.e4 vs The Caro-Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-System"]
+[Black "Deviatkin-Variante"]
+[Result "*"]
+[ECO "B17"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "23"]
+[EventDate "2012.12.31"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 {Der Randbauern-Zug} h6 {stammt von
+Andrei Deviatkin.} 5. Nf3 Bf5 6. Nc5 $1 {Dieser Zug nutzt aus, dass der
+Läufer auf f5 zu spät entwickelt wurde. Ohne h7-h6 und Sg1-f3 wäre dies
+kein guter Zug, weil Schwarz mit e7-e5 kontern könnte.} Nd7 {Andere Züge
+mögen ebenfalls nicht überzeugen.} ({(a)} 6... Qc7 7. Bd3 Bxd3 8. Nxd3 e6 9.
+O-O {[%csl Yc4,Ye1,Ye5,Yf4][%cal Gc2c4,Gf1e1,Gc1f4,Gf3e5] ergibt eine
+angenehme Stellung für Weiß. Sein Plan ist ziemlich klar.}) ({(b)} 6... b6 7.
+Bd3 $1 Bxd3 8. Nxd3 {Schwarz ist in der Entwicklung zurück und hat einen
+rückständigen Bauern auf c6. Weiß hat also eine ideale Stellung nach dem
+Tausch der Läufer.}) 7. Nxb7 {Maximaler Anspruch von Weiß!} Qc7 (7... Qb6 {
+holt sich den Bauern zurück, aber es hinterläßt eine schlechte Struktur
+für Schwarz.} 8. Nc5 Nxc5 9. dxc5 Qxc5 10. Bd3 Bxd3 11. Qxd3 {scheint bequem
+für Weiß zu sein.}) 8. Nc5 Nxc5 9. dxc5 e6 10. Bd3 $1 Bxc5 (10... Bxd3 11.
+Qxd3 Bxc5 12. Qc3 {ist unangenehm für Schwarz.}) 11. Bxf5 exf5 12. O-O {
+Der künstliche Mehrbauer von Weiß verspricht einen langfristigen Vorteil. Er
+kann nun auf dem Damenflügel seine Bauern nach vorne stoßen.} *
+
