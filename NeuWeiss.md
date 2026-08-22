@@ -6,10 +6,12 @@
 04 Caro-Kann-Verteidigung  
 05 Skandinavische Verteidigung    
 06 Alekhine-Verteidigung  
-07 Pirc-Ufimcev-Verteidigung     
-08 Philidor-Verteidigung  
-09 Offene Spiele  
-10 Flankenspiele   
+07 Pirc-Ufimcev-Verteidigung
+08 Moderne Verteidigung     
+09 Philidor-Verteidigung  
+10 Russische Verteidigung
+11 Offene Spiele
+12 Flankenspiele   
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 01 Sizilianische Verteidigung
@@ -66,93 +68,47 @@
 28 Kalashnikov-Verteidigung - Klassisches System  
 29 Kalashnikov-Verteidigung - Löwenthal-System  
 
-
-
-03 Sveshnikov-System  
-04 Kalashnikov-System    
-05 Rauzer-Angriff   
-06 Keres-Angriff    
-07 Taimanov-System    
-08 Kan-System   
-09 Beschleunigter Drachen   
-10 Sizilianisches Vierspringerspiel   
-11 Sizilianischer Angriff   
-12 Alt-Sizilianisch   
-13 Franco-Sizilianisch     
-14 Flanken-Sizilianisch    
+----------------------------------------------------------------------------------------------------------------------------------
+### Taimanov-Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+30 Taimanov-Verteidigung - Klassisches System  
+31 Taimanov-Verteidigung - Modernes System  
+32 Taimanov-Verteidigung - Zentralsystem  
+33 Taimanov-Verteidigung - Englischer Angriff  
+34 Taimanov-Verteidigung - Abtauschsystem  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-## 02 Spanische Partie		
+### Kan-Verteidigung
 ----------------------------------------------------------------------------------------------------------------------------------
-01 Geschlossene Verteidigung  
-02 Offene Verteidigung  
-03 Anti-Marshall  
-04 Möller-Verteidigung  
-05 Moderne Steinitz-Verteidigung  
-07 Berliner Verteidigung  
-08 Klassische Verteidigung  
-09 Jaenisch-Gambit  
-10 Cozio-Verteidigung  
-11 Bird-Verteidigung  
-12 Steinitz-Verteidigung   
+35 Kan-Verteidigung - Modernes System  
+36 Kan-Verteidigung - Klassisches System  
+37 Kan-Verteidigung - Paulsen-System  
+38 Kan-Verteidigung - Zentralsystem  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-## 03 Französische Verteidigung	
+### Alt-Sizilianische Verteidigung
 ----------------------------------------------------------------------------------------------------------------------------------
-01 Winawer-System  
-02 Steinitz-System  
-03 Rubinstein-System  
-04 Guimard-System  
+39 Alt-Sizilianische Verteidigung - Beschleunigter Drachen  
+40 Alt-Sizilianische Verteidigung - Semi-Jugoslawischer Angriff  
+41 Alt-Sizilianische Verteidigung - Grivas-System  
+42 Alt-Sizilianische Verteidigung - Polgar-System  
+43 Alt-Sizilianische Verteidigung - Dirty Harry  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-## 04 Caro-Kann-Verteidigung	
+### Franco-Sizilianische Verteidigung
 ----------------------------------------------------------------------------------------------------------------------------------
-01 Capablanca-System  
-02 Karpov-Smyslov-System  
-03 Nimzowitsch-Flohr-System  
-04 Gurgenidze-System  
+44 Franco-Sizilianische Verteidigung - Basman-Sale-System  
+45 Franco-Sizilianische Verteidigung - Kveinys-System  
+46 Franco-Sizilianische Verteidigung - Sizilianischer Angriff  
+47 Franco-Sizilianische Verteidigung - Sizilianisches Vierspringerspiel   
+48 Franco-Sizilianische Verteidigung - Ga°-Pa°-System  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-## 05 Skandinavische Verteidigung    
+### Flanken-Sizilianische Verteidigung
 ----------------------------------------------------------------------------------------------------------------------------------
-01 Shirov-Angriff  
-02 Bronstein-System  
-03 Modernes System  
-
-----------------------------------------------------------------------------------------------------------------------------------
-## 06 Alekhine-Verteidigung  
-----------------------------------------------------------------------------------------------------------------------------------
-01 Miles-System  
-02 Kengis-System  
-03 Modernes System  
-04 Klassisches System  
-05 Fianchetto-System  
-
-----------------------------------------------------------------------------------------------------------------------------------
-## 07 Pirc-Ufimcev-Verteidigung
-----------------------------------------------------------------------------------------------------------------------------------
-01 Österreichischer Angriff  
-02 Tschechisch-Pirc  
-03 The Black Lion  
-04 Moderne Verteidigung  
-
-----------------------------------------------------------------------------------------------------------------------------------
-## 08 Philidor-Verteidigung  
-----------------------------------------------------------------------------------------------------------------------------------
-01 Hanham-System  
-02 Modernes System  
-03 Antoshin-System	
-
-----------------------------------------------------------------------------------------------------------------------------------
-## 09 Offene Spiele
-----------------------------------------------------------------------------------------------------------------------------------
-01 Russische Verteidigung  
-02 Lettisches Gambit  
-03 Elefanten-Gambit  
-
-----------------------------------------------------------------------------------------------------------------------------------
-## 10 Flankenspiele
-----------------------------------------------------------------------------------------------------------------------------------
-01 The Tango  
-02 Owen-System	
+49 Flanken-Sizilianische Verteidigung - Nimzowitsch-System  
+50 Flanken-Sizilianische Verteidigung - O'Kelly-System  
+51 Flanken-Sizilianische Verteidigung - Pterodactyl-System  
+52 Flanken-Sizilianische Verteidigung - Katalymov-System  
+53 Flanken-Sizilianische Verteidigung - Polnisches Gambit  
 
