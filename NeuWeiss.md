@@ -6,11 +6,11 @@
 04 Caro-Kann-Verteidigung  
 05 Skandinavische Verteidigung    
 06 Alekhine-Verteidigung  
-07 Pirc-Ufimcev-Verteidigung
-08 Moderne Verteidigung     
+07 Pirc-Ufimcev-Verteidigung  
+08 Moderne Verteidigung  
 09 Philidor-Verteidigung  
-10 Russische Verteidigung
-11 Offene Spiele
+10 Russische Verteidigung   
+11 Offene Spiele  
 12 Flankenspiele   
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -112,3 +112,55 @@
 52 Flanken-Sizilianische Verteidigung - Katalymov-System  
 53 Flanken-Sizilianische Verteidigung - Polnisches Gambit  
 
+----------------------------------------------------------------------------------------------------------------------------------
+## 02 Spanische Partie
+----------------------------------------------------------------------------------------------------------------------------------
+### Geschlossene Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+01 Geschlossene Verteidigung - Chigorin-System  
+02 Geschlossene Verteidigung - Breyer-System  
+03 Geschlossene Verteidigung - Zaitsev-System  
+04 Geschlossene Verteidigung - Karpov-System  
+05 Geschlossene Verteidigung - Smyslov-System  
+06 Geschlossene Verteidigung - Hybrid-System  
+07 Geschlossene Verteidigung - Kholmov-System  
+08 Geschlossene Verteidigung - Keres-System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Moderne Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+09 Moderne Verteidigung - Anti-Marshall-System  
+10 Moderne Verteidigung - Möller-System  
+11 Moderne Verteidigung - Archangelsk-System  
+12 Moderne Verteidigung - Russisches System  
+13 Moderne Verteidigung - Anderssen-System  
+14 Moderne Verteidigung - Averbakh-System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Offene Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+15 Offene Verteidigung - Modernes System  
+16 Offene Verteidigung - Klassisches System  
+17 Offene Verteidigung - Dilworth-System  
+18 Offene Verteidigung - Semi-Offene Verteidigung  
+19 Offene Verteidigung - Rigaer System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Morphy-Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+20 Morphy-Verteidigung - Aronian-System  
+21 Morphy-Verteidigung - Norwegische Verteidigung  
+22 Morphy-Verteidigung - Moderne Steinitz-Verteidigung	
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Klassische Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+23 Klassische Verteidigung - Berliner Verteidigung  
+24 Klassische Verteidigung - Klassisches System  
+25 Klassische Verteidigung - Cordel-System  
+26 Klassische Verteidigung - Schliemann-System  
+27 Klassische Verteidigung - Jaenisch-Gambit  
+28 Klassische Verteidigung - Smyslov-Verteidigung  
+29 Klassische Verteidigung - Cozio-Verteidigung  
+30 Klassische Verteidigung - Bird-Verteidigung  
+31 Klassische Verteidigung - Steinitz-Verteidigung	
