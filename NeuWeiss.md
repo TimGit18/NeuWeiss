@@ -160,7 +160,7 @@
 25 Klassische Verteidigung - Cordel-System  
 26 Klassische Verteidigung - Schliemann-System  
 27 Klassische Verteidigung - Jaenisch-Gambit  
-28 Klassische Verteidigung - Smyslov-Verteidigung  
-29 Klassische Verteidigung - Cozio-Verteidigung  
-30 Klassische Verteidigung - Bird-Verteidigung  
-31 Klassische Verteidigung - Steinitz-Verteidigung	
+28 Klassische Verteidigung - Smyslov-System  
+29 Klassische Verteidigung - Cozio-System  
+30 Klassische Verteidigung - Bird-System    
+31 Klassische Verteidigung - Steinitz-System   

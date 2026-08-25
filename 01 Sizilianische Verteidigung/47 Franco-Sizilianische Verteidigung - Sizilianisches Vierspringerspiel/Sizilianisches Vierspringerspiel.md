@@ -1,4 +1,4 @@
-# Franco-Sizilianische Verteidigung - Sizilianisches Vierspringerspiel   
+# Franco-Sizilianische Verteidigung - Sizilianisches Vierspringerspiel (B45)  
 ----------------------------------------------------------------------------------------------------------------------------------
 * Parimarjan Negi: 1.e4 vs The Sicilian III  
 * Alex Raetsky: Experten vs. Sizilianisch  
