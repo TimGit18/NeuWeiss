@@ -10,8 +10,6 @@
 08 Moderne Verteidigung  
 09 Philidor-Verteidigung  
 10 Russische Verteidigung   
-11 Offene Spiele  
-12 Flankenspiele   
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 01 Sizilianische Verteidigung
