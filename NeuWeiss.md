@@ -310,3 +310,50 @@
 01 Gambite - Elefanten-Gambit  
 02 Gambite - Lettisches Gambit  
 
+----------------------------------------------------------------------------------------------------------------------------------
+## Buch  
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 1: Sizilianische Verteidigung I 
+----------------------------------------------------------------------------------------------------------------------------------
+01 Modernes System              - Najdorf-Verteidigung  
+02 Modernes System              - Drachen-Verteidigung  
+03 Klassisches System           - Klassische Verteidigung  
+04 Klassisches System           - Scheveningen-Verteidigung  
+05 Aggressives System           - Sveshnikov-Verteidigung, Kalashnikov-Verteidigung  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 2: Sizilianische Verteidigung II 
+----------------------------------------------------------------------------------------------------------------------------------
+01 Positionelles System         - Taimanov-Verteidigung  
+02 Positionelles System         - Kan-Verteidigung  
+03 Anti-Sizilianisch            - Alt-Sizilianische Verteidigung  
+04 Anti-Sizilianisch            - Franco-Sizilianische Verteidigung  
+05 Anti-Sizilianisch            - Flanken-Sizilianische Verteidigung  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 3: Spanische Partie
+----------------------------------------------------------------------------------------------------------------------------------
+01 Morphy-System                - Geschlossene Verteidigung  
+02 Morphy-System                - Offene Verteidigung  
+03 Morphy-System                - Moderne Verteidigung  
+04 Klassisches System           - Klassische Verteidigung  
+05 Klassisches System           - Alternative Verteidigung  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 4: Französische und Caro-Kann-Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+01 Französische Verteidigung    - Winawer-Verteidigung  
+02 Französische Verteidigung    - Steinitz-Verteidigung  
+03 Französische Verteidigung    - Rubinstein-Verteidigung, Guimard-Verteidigung  
+04 Caro-Kann-Verteidigung       - Capablanca-Verteidigung  
+05 Caro-Kann-Verteidigung       - Moderne Verteidigung  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 5: Halboffene und Offene Spiele
+----------------------------------------------------------------------------------------------------------------------------------
+01 Halboffene Spiele            - Skandinavische Verteidigung  
+02 Halboffene Spiele            - Alekhine-Verteidigung  
+03 Halboffene Spiele            - Pirc-Verteidigung, Moderne Verteidigung  
+04 Offene Spiele                - Philidor-Verteidigung  
+05 Offene Spiele                - Russische Verteidigung  
+
